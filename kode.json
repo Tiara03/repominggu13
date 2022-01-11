@@ -1,0 +1,23 @@
+{
+    "login": "belajarkode",
+    "id": 12345678,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MjU0NjAy",
+    "avatar_url": "http://localhost/dasproweb/minggu13/image/code.png",
+    "gravatar_id": "",
+    "url": "http://devel.dinustech.com/aboe/materi/data/kode.json",
+    "url_2" : "https://jsonplaceholder.typicode.com/posts",
+    "url_3" : "https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js",
+    "type": "Study",
+    "site_admin": false,
+    "name": "Belajar AJAX",
+    "company": null,
+    "location": "Semarang, Indonesia",
+    "email": "tiaraayuazizah@icloud.com",
+    "hireable": null,
+    "bio": null,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2022-01-10T07:00:00Z",
+    "updated_at": "2022-01-11T07:00:00Z"
+    
+  }
